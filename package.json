@@ -16,5 +16,13 @@
     "nodemon": "^2.0.15"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesleysusu/SITES.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wesleysusu/SITES/issues"
+  },
+  "homepage": "https://github.com/wesleysusu/SITES#readme",
   "description": ""
 }
